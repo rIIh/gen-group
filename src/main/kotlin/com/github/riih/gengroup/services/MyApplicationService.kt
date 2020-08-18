@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.riih.gengroup.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.riih.gengroup.MyBundle
 
 class MyApplicationService {
 
